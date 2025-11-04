@@ -100,7 +100,7 @@ font-size: 21px;
 .navlinks button{margin:0 6px;color:var(--text);padding:6px 10px;transition:0.3s;border-radius:4px; background: none; border-style: none; ;font-size: 1.2rem;}
 .navlinks button:hover,.navlinks a.active{background:var(--primary);color:#000;}
 .navlinks .cta{background:var(--primary);color:#000;}
-.menu-btn{background:none;border:none;color:var(--text);font-size:1.5rem;display:none;}
+.menu-btn{background:red;border:none;color:var(--text);font-size:1.5rem;display:none;}
 .menu-btn2{background:none;border:none;color:var(--text);font-size:1.5rem;display:none;}
 
 /* Hero */
